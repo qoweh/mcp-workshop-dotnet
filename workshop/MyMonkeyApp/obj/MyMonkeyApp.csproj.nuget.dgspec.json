@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pilt/csharp/mcp-workshop-dotnet/workshop/MyMonkeyApp/MyMonkeyApp.csproj": {}
+    "/home/runner/work/mcp-workshop-dotnet/mcp-workshop-dotnet/workshop/MyMonkeyApp/MyMonkeyApp.csproj": {}
   },
   "projects": {
-    "/Users/pilt/csharp/mcp-workshop-dotnet/workshop/MyMonkeyApp/MyMonkeyApp.csproj": {
+    "/home/runner/work/mcp-workshop-dotnet/mcp-workshop-dotnet/workshop/MyMonkeyApp/MyMonkeyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pilt/csharp/mcp-workshop-dotnet/workshop/MyMonkeyApp/MyMonkeyApp.csproj",
+        "projectUniqueName": "/home/runner/work/mcp-workshop-dotnet/mcp-workshop-dotnet/workshop/MyMonkeyApp/MyMonkeyApp.csproj",
         "projectName": "MyMonkeyApp",
-        "projectPath": "/Users/pilt/csharp/mcp-workshop-dotnet/workshop/MyMonkeyApp/MyMonkeyApp.csproj",
-        "packagesPath": "/Users/pilt/.nuget/packages/",
-        "outputPath": "/Users/pilt/csharp/mcp-workshop-dotnet/workshop/MyMonkeyApp/obj/",
+        "projectPath": "/home/runner/work/mcp-workshop-dotnet/mcp-workshop-dotnet/workshop/MyMonkeyApp/MyMonkeyApp.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/mcp-workshop-dotnet/mcp-workshop-dotnet/workshop/MyMonkeyApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/pilt/.nuget/NuGet/NuGet.Config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -32,17 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -59,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.118/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,9 +1,10 @@
-﻿
+
+using MyMonkeyApp.Helpers;
+using MyMonkeyApp.Models;
 using System;
 
 namespace MyMonkeyApp;
 
-/// <summary>
 /// Entry point for the Monkey management console application.
 /// </summary>
 public class Program
