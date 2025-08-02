@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hbK7y6l2iL8=",
+  "dgSpecHash": "aswnzpRvCuJwyJOjppl2/gax/VGri02njcKdQfGKGZdSVs6GiPo2tDEUt2E+WL6E9ctOjKcwxF6btEnusHVQ4A==",
   "success": true,
-  "projectFilePath": "/Users/pilt/csharp/mcp-workshop-dotnet/workshop/MyMonkeyApp/MyMonkeyApp.csproj",
+  "projectFilePath": "/home/runner/work/mcp-workshop-dotnet/mcp-workshop-dotnet/workshop/MyMonkeyApp/MyMonkeyApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
